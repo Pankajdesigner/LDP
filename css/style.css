@@ -3095,10 +3095,11 @@ only screen and (max-device-width: 991px) {
   .navbar {
     top: 0px;
     border-radius: 0;
+    padding: 10px 5px;
   }
 
   .navbar .logo {
-    margin: 0 auto;
+    /* margin: 0 auto; */
   }
 
   .navbar .site-menu {
@@ -3266,7 +3267,7 @@ only screen and (max-device-width: 767px) {
   }
 
   .navbar .logo a img {
-    height: 50px;
+    height: 40px;
   }
 
   .search-box .inner {
@@ -3311,7 +3312,7 @@ only screen and (max-device-width: 767px) {
 
   .header,
   .header .main-slider {
-    height: calc(100vh - 90px);
+    height: calc(100vh - 60px);
   }
 
   .col-md-4:nth-child(2) .image-content-box {
