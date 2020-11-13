@@ -2026,15 +2026,14 @@ a:hover {
 
 /* SERVICE LIST BOX */
 .transbox {
-  background-color: #ffffff;
-  opacity: 0.8;
+  /* background-color: #ffffff;
+  opacity: 0.8; */
 }
 
 .services-list-box {
   width: 100%;
   display: flex;
-  flex-wrap: wrap;
-  background: #fff;
+  flex-wrap: wrap; 
   padding: 80px 0px;
   border-top-left-radius: 6px;
   border-top-right-radius: 6px;
